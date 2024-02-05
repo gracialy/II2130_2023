@@ -1,0 +1,9 @@
+Welcome to the melty land, this is a place where only beautiful dreams remain
+240 15 15 15 15 15
+2 w 136
+7 5764801 NO_GHIDRA
+13 107
+5001
+7 109
+239 774 623 343 738 60 DISAS_ONLY
+743

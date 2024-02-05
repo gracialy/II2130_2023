@@ -1,0 +1,36 @@
+b9947c41a429cd53
+Welcome to the melty land, this is a place where only beautiful dreams remain (Beginning)
+240 15 15 15 15 15 (Black_Rose)
+2 w 136 (Metropolis)
+7 5764801 NO_GHIDRA 
+13 107 (Dragon)
+5001
+7 109
+239 774 623 343 738 60 DISAS_ONLY
+743
+
+240 15 255 4095 240 4080
+F0  F  FF  FFF  F0  FF0
+
+kumpulan jawaban BlackRose
+- 15            F
+- 240           F0
+- 255           FF
+                FFF
+                FFF0
+- 480           1E0
+- 4080          FF0
+- 2147483640    7FFFFFF8
+- 4095
+- 65520
+- 65535
+- 1048560
+
+0 -> 0x7a (z) 0x123 (291)
+1 -> 0x6e (n) 0x298 (664) 
+2 -> 0x77 (w) 0x88 (136)
+3 -> 0x7a (z) 
+4 -> 0x6a    j  0x34b
+5 ->  0x79   z     0x18f
+6 ->          0x12f (303)
+            0x12f
